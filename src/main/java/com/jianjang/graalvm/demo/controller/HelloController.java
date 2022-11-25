@@ -25,5 +25,4 @@ public class HelloController {
         data.put("message", "hello " + name);
         return data;
     }
-
 }
